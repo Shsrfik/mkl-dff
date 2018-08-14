@@ -1,0 +1,19 @@
+{
+  "name": "matveylove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ukr_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
+    "node.js": "0.0.0"
+  },
+  "devDependencies": {
+    "module-js": "^7.0.1"
+  }
+}
